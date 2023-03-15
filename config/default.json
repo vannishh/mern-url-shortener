@@ -1,0 +1,6 @@
+{
+    "port":7070,
+    "jwtSecret": "qwerty1234",
+    "mongoUri": "mongodb://localhost:27017/",
+    "baseUrl": "http://localhost:7070"
+}
